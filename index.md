@@ -4,3 +4,12 @@
 ###### Terceiro título `<h6>` no github
 
 ![Image of cat](https://media.wired.com/photos/593371bf283bfc394dcbf689/master/w_1920,c_limit/socialite.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
